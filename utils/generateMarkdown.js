@@ -51,6 +51,13 @@ function generateMarkdown(data) {
   *[Tests](#test)
   *[Questions](#questions)
 
+  ## Installation
+  Install necessary packages to run applcation
+  
+  \`\`\`\`
+  npm i inquirer
+  \`\`\`\`
+
  ## Usage
  [Usage Demo](${data.usage})
 
