@@ -26,13 +26,23 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
       },
       {
         type: 'input',
+        name: 'usage',
+        message: 'Provide some information about how someone should expect to use this project.',
+      },
+      {
+        type: 'input',
+        name: 'contributing',
+        message: 'Provide some information regarding how people might contribute to this project.',
+      },
+      {
+        type: 'input',
         name: 'github',
-        message: 'What is your github username?',
+        message: 'What is your github username? Ex: username1',
       },
       {
         type: 'input',
         name: 'email',
-        message: 'What is your email?',
+        message: 'What is your email? Ex. email@email.com',
       },
   ])
   .then((inquirerData) => {

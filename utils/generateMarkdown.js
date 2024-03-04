@@ -51,10 +51,14 @@ function generateMarkdown(data) {
   *[Tests](#test)
   *[Questions](#questions)
 
-
+ ## Usage
+ ${data.usage}
+ 
   ${renderLicenseSection(data.license)}
   ${renderLicenseBadge(data.license)}
 
+  ## Contributing
+  ${data.contributing}
 
   ## Questions
   If you have any question about the repo you can contact me via ${data.email}.
