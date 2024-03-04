@@ -19,20 +19,6 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
         message: 'Tell us about your project. For example, what was your motivation, why did you build it, what problem did it solve, and what did you learn?',
       },
       {
-        type: 'checkbox',
-        name: 'toc',
-        message: 'Build a Table of Contents',
-        choices: [
-            { name: 'Installation' },
-            { name: 'Usage' },
-            { name: 'License' },
-            { name: 'Contributing' },
-            { name: 'Tests' },
-            { name: 'Questions' },
-            { name: 'Other' }
-          ],
-      },
-      {
         type: 'list',
         message: 'What license are you using?',
         name: 'license',
