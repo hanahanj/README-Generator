@@ -52,8 +52,8 @@ function generateMarkdown(data) {
   *[Questions](#questions)
 
  ## Usage
- ${data.usage}
- 
+ [Usage Demo](${data.usage})
+
   ${renderLicenseSection(data.license)}
   ${renderLicenseBadge(data.license)}
 

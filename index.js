@@ -27,7 +27,7 @@ const generateMarkdown = require('./utils/generateMarkdown.js');
       {
         type: 'input',
         name: 'usage',
-        message: 'Provide some information about how someone should expect to use this project.',
+        message: 'Insert a link to a usage demonstration. This could be an image or video',
       },
       {
         type: 'input',
