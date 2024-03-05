@@ -1,10 +1,10 @@
 
   ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
   ## Title
-  README-Generator
+  README Generator
   
   ## Description
-  This project generates a professional README through a series of prompts
+  This project generates a professional README file through a series of prompts
 
  
   ## Table of Contents
@@ -30,7 +30,7 @@
   ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
   ## Contributing
-  You can fork this project and submit push requests
+  You can fork and make pull requests
 
   ## Questions
   If you have any question about the repo you can contact me via jonathan.hanahan@gmail.com.
