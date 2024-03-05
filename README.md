@@ -23,14 +23,14 @@
   ````
 
  ## Usage
- [Usage Demo](www.google.com)
+ [Usage Demo](https://drive.google.com/file/d/1jCRpxzi5Wmvjg6pzB1U90djMALgFXTvo/view)
 
   ## License
   This project is licenced under the MIT License License.
   ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
   ## Contributing
-  You can fork and make pull requests
+  You may fork this project and submit pull requests
 
   ## Questions
   If you have any question about the repo you can contact me via jonathan.hanahan@gmail.com.
