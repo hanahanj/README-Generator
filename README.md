@@ -1,10 +1,10 @@
 
-  ![GitHub license](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20(GPL)%20v3-blue.svg)
+  ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
   ## Title
-  project
+  README-Generator
   
   ## Description
-  description
+  This project generates a professional README through a series of prompts
 
  
   ## Table of Contents
@@ -26,11 +26,11 @@
  [Usage Demo](www.google.com)
 
   ## License
-  This project is licenced under the GNU General Public License (GPL) v3 License.
-  ![GitHub license](https://img.shields.io/badge/license-GNU%20General%20Public%20License%20(GPL)%20v3-blue.svg)
+  This project is licenced under the MIT License License.
+  ![GitHub license](https://img.shields.io/badge/license-MIT%20License-blue.svg)
 
   ## Contributing
-  you can do stuff
+  You can fork this project and submit push requests
 
   ## Questions
   If you have any question about the repo you can contact me via jonathan.hanahan@gmail.com.
